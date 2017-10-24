@@ -1,0 +1,6 @@
+framework module Pods_Qiniu {
+  umbrella header "Pods-Qiniu-umbrella.h"
+
+  export *
+  module * { export * }
+}
